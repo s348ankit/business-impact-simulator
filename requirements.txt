@@ -3,6 +3,7 @@ pandas
 numpy
 networkx
 matplotlib
-py-lingam
+lingam
 dowhy
+
 scipy
