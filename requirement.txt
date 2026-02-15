@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-networkx
-matplotlib
-py-lingam
-dowhy
-scipy
