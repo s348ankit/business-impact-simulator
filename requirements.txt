@@ -1,9 +1,8 @@
 streamlit
 pandas
-numpy
+numpy>=2.0.0  # Recent NumPy (avoids old distutils code in some paths)
 networkx
 matplotlib
 lingam
-dowhy
-
+dowhy>=0.14.0  # Explicitly >=0.14 for Python 3.13 fixes
 scipy
